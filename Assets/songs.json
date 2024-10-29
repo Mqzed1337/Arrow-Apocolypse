@@ -1,0 +1,79 @@
+[
+    {
+        "name": "Incoming",
+        "file_name": "Incoming.wav",
+        "mpb": "480",
+        "beats": 271,
+        "seed": 9589403,
+        "speed_single": 5,
+        "speed_double": 3,
+        "offset": -28,
+        "highscore": 0
+    },
+    {
+        "name": "thelema",
+        "file_name": "ofdream - thelema.wav",
+        "mpb": 521.7391304347826,
+        "beats": 442,
+        "seed": 1007,
+        "speed_single": 5,
+        "speed_double": 6,
+        "offset": -23,
+        "highscore": 0
+    },
+    {
+        "name": "Bad Piggies",
+        "file_name": "bad piggies drip.wav",
+        "mpb": 384.61538461538464,
+        "beats": 393,
+        "seed": 1014,
+        "speed_single": 8,
+        "speed_double": 8,
+        "offset": -10,
+        "highscore": 0
+    },
+    {
+        "name": "Giorno Theme",
+        "file_name": "Giorno Theme.wav",
+        "mpb": 468.75,
+        "beats": 241,
+        "seed": 1023,
+        "speed_single": 6,
+        "speed_double": 9,
+        "offset": -4,
+        "highscore": 0
+    },
+    {
+        "name": "AO infinity",
+        "file_name": "Seiryu - AO Infinity.wav",
+        "mpb": 300,
+        "beats": 526,
+        "seed": 1053,
+        "speed_single": 10,
+        "speed_double": 7,
+        "offset": 48,
+        "highscore": 0
+    },
+    {
+        "name": "Mask",
+        "file_name": "Future - Mask Off.wav",
+        "mpb": 200,
+        "beats": 670,
+        "seed": 132835,
+        "speed_single": 10,
+        "speed_double": 10,
+        "offset": -8,
+        "highscore": 0
+    },
+    {
+        "name": "MR BEAST",
+        "file_name": "MR BEAST.wav",
+        "mpb": 410.958904109589,
+        "beats": 295,
+        "seed": 1038,
+        "speed_single": 10,
+        "speed_double": 2,
+        "offset": -8,
+        "highscore": 0
+    }
+]
